@@ -27,6 +27,8 @@ The model is trained using the Adam optimizer and NNLL loss function.
 **Model Evaluation**:
 The trained model's accuracy is evaluated on the test data.
 
+![image](https://github.com/Joshi-78/Attention-Based-Neural-Networks-for-Precise-Event-time-prediction-/blob/main/image.png)
+
 ## Requirements
 To run this project, you will need the following libraries:
 
@@ -44,3 +46,4 @@ To run this project, you will need the following libraries:
 
 ## Contribution
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to create a pull request.
+
