@@ -33,6 +33,7 @@ The trained model's accuracy is evaluated on the test data.
 To run this project, you will need the following libraries:
 
 - PyTorch
+- Gradio
 - sklearn
 - numpy
 - matplotlib
